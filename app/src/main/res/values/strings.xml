@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="uplaod">загрузить</string>
+    <string name="close">закрыть</string>
+</resources>
